@@ -1,0 +1,699 @@
+flamegraph([
+{"x":0,"y":0,"width":41,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":41,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":42,"y":0,"width":11,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":53,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":54,"y":0,"width":7,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":61,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":62,"y":0,"width":4,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":66,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":67,"y":0,"width":8,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":75,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":76,"y":0,"width":3,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":79,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":80,"y":0,"width":7,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":87,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":88,"y":0,"width":7,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":95,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":96,"y":0,"width":9,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":105,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":106,"y":0,"width":33,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":139,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":140,"y":0,"width":20,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":160,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":161,"y":0,"width":8,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":169,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":170,"y":0,"width":7,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":177,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":178,"y":0,"width":13,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":191,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":192,"y":0,"width":25,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":217,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":218,"y":0,"width":12,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":230,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":231,"y":0,"width":1,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":232,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":233,"y":0,"width":3,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":236,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":237,"y":0,"width":28,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":265,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":266,"y":0,"width":8,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":274,"y":0,"width":3,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":277,"y":0,"width":5,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":282,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":283,"y":0,"width":22,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":305,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":306,"y":0,"width":3,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":309,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":310,"y":0,"width":5,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":315,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":316,"y":0,"width":1,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":317,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":318,"y":0,"width":1,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":319,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":320,"y":0,"width":22,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":342,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":343,"y":0,"width":4,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":347,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":348,"y":0,"width":7,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":355,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":356,"y":0,"width":4,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":360,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":361,"y":0,"width":7,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":368,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":369,"y":0,"width":5,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":374,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":375,"y":0,"width":10,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":385,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":386,"y":0,"width":16,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":402,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":403,"y":0,"width":4,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":407,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":408,"y":0,"width":15,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":423,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":424,"y":0,"width":18,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":442,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":443,"y":0,"width":10,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":453,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":454,"y":0,"width":14,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":468,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":469,"y":0,"width":12,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":481,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":482,"y":0,"width":4,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":486,"y":0,"width":2,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":488,"y":0,"width":8,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":496,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":497,"y":0,"width":30,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":527,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":528,"y":0,"width":4,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":532,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":533,"y":0,"width":6,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":539,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":540,"y":0,"width":17,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":557,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":558,"y":0,"width":47,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":605,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":606,"y":0,"width":3,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":609,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":610,"y":0,"width":28,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":638,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":639,"y":0,"width":1,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":640,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":641,"y":0,"width":10,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":651,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":652,"y":0,"width":3,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":655,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":656,"y":0,"width":15,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":671,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":672,"y":0,"width":14,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":686,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":687,"y":0,"width":14,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":701,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":702,"y":0,"width":13,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":715,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":716,"y":0,"width":5,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":721,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":722,"y":0,"width":1,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":723,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":724,"y":0,"width":1,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":725,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":726,"y":0,"width":19,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":745,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":746,"y":0,"width":5,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":751,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":752,"y":0,"width":5,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":757,"y":0,"width":2,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":759,"y":0,"width":10,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":769,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":770,"y":0,"width":32,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":802,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":803,"y":0,"width":6,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":809,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":810,"y":0,"width":11,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":821,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":822,"y":0,"width":23,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":845,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":846,"y":0,"width":33,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":879,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":880,"y":0,"width":4,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":884,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":885,"y":0,"width":10,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":895,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":896,"y":0,"width":1,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":897,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":898,"y":0,"width":30,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":928,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":929,"y":0,"width":13,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":942,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":943,"y":0,"width":1,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":944,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":945,"y":0,"width":1,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":946,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":947,"y":0,"width":29,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":976,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":977,"y":0,"width":1,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":978,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":979,"y":0,"width":13,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":992,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":993,"y":0,"width":2,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":995,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":996,"y":0,"width":8,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1004,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1005,"y":0,"width":18,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1023,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1024,"y":0,"width":23,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1047,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1048,"y":0,"width":1,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1049,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1050,"y":0,"width":3,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1053,"y":0,"width":2,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1055,"y":0,"width":4,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1059,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1060,"y":0,"width":19,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1079,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1080,"y":0,"width":34,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1114,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1115,"y":0,"width":1,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1116,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1117,"y":0,"width":5,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1122,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1123,"y":0,"width":19,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1142,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1143,"y":0,"width":21,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1164,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1165,"y":0,"width":16,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1181,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1182,"y":0,"width":13,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1195,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1196,"y":0,"width":17,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1213,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1214,"y":0,"width":8,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1222,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1223,"y":0,"width":30,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1253,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1254,"y":0,"width":12,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1266,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1267,"y":0,"width":15,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1282,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1283,"y":0,"width":3,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1286,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1287,"y":0,"width":32,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1319,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1320,"y":0,"width":5,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1325,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1326,"y":0,"width":23,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1349,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1350,"y":0,"width":21,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1371,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1372,"y":0,"width":24,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1396,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1397,"y":0,"width":13,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1410,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1411,"y":0,"width":4,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1415,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1416,"y":0,"width":1,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1417,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1418,"y":0,"width":1,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1419,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1420,"y":0,"width":9,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1429,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1430,"y":0,"width":34,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1464,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1465,"y":0,"width":6,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1471,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1472,"y":0,"width":9,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1481,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1482,"y":0,"width":2,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1484,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1485,"y":0,"width":1,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":1486,"y":0,"width":1,"frame_id":313,"frame":"(garbage collection)","file":""}
+,{"x":1487,"y":0,"width":1,"frame_id":70262506920000,"frame":"<main>","file":"counts.rb"}
+,{"x":0,"y":1,"width":41,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":42,"y":1,"width":11,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":54,"y":1,"width":7,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":62,"y":1,"width":4,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":67,"y":1,"width":8,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":76,"y":1,"width":3,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":80,"y":1,"width":7,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":88,"y":1,"width":7,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":96,"y":1,"width":9,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":106,"y":1,"width":33,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":140,"y":1,"width":20,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":161,"y":1,"width":8,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":170,"y":1,"width":7,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":178,"y":1,"width":13,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":192,"y":1,"width":25,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":218,"y":1,"width":12,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":231,"y":1,"width":1,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":233,"y":1,"width":3,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":237,"y":1,"width":28,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":266,"y":1,"width":8,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":277,"y":1,"width":5,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":283,"y":1,"width":22,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":306,"y":1,"width":3,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":310,"y":1,"width":5,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":316,"y":1,"width":1,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":318,"y":1,"width":1,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":320,"y":1,"width":22,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":343,"y":1,"width":4,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":348,"y":1,"width":7,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":356,"y":1,"width":4,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":361,"y":1,"width":7,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":369,"y":1,"width":5,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":375,"y":1,"width":10,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":386,"y":1,"width":16,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":403,"y":1,"width":4,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":408,"y":1,"width":15,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":424,"y":1,"width":18,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":443,"y":1,"width":10,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":454,"y":1,"width":14,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":469,"y":1,"width":12,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":482,"y":1,"width":4,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":488,"y":1,"width":8,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":497,"y":1,"width":30,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":528,"y":1,"width":4,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":533,"y":1,"width":6,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":540,"y":1,"width":17,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":558,"y":1,"width":47,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":606,"y":1,"width":3,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":610,"y":1,"width":28,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":639,"y":1,"width":1,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":641,"y":1,"width":10,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":652,"y":1,"width":3,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":656,"y":1,"width":15,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":672,"y":1,"width":14,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":687,"y":1,"width":14,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":702,"y":1,"width":13,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":716,"y":1,"width":5,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":722,"y":1,"width":1,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":724,"y":1,"width":1,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":726,"y":1,"width":19,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":746,"y":1,"width":5,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":752,"y":1,"width":5,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":759,"y":1,"width":10,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":770,"y":1,"width":32,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":803,"y":1,"width":6,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":810,"y":1,"width":11,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":822,"y":1,"width":23,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":846,"y":1,"width":33,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":880,"y":1,"width":4,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":885,"y":1,"width":10,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":896,"y":1,"width":1,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":898,"y":1,"width":30,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":929,"y":1,"width":13,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":943,"y":1,"width":1,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":945,"y":1,"width":1,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":947,"y":1,"width":29,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":977,"y":1,"width":1,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":979,"y":1,"width":13,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":993,"y":1,"width":2,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":996,"y":1,"width":8,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1005,"y":1,"width":18,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1024,"y":1,"width":23,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1048,"y":1,"width":1,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1050,"y":1,"width":3,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1055,"y":1,"width":4,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1060,"y":1,"width":19,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1080,"y":1,"width":34,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1115,"y":1,"width":1,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1117,"y":1,"width":5,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1123,"y":1,"width":19,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1143,"y":1,"width":21,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1165,"y":1,"width":16,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1182,"y":1,"width":13,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1196,"y":1,"width":17,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1214,"y":1,"width":8,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1223,"y":1,"width":30,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1254,"y":1,"width":12,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1267,"y":1,"width":15,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1283,"y":1,"width":3,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1287,"y":1,"width":32,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1320,"y":1,"width":5,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1326,"y":1,"width":23,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1350,"y":1,"width":21,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1372,"y":1,"width":24,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1397,"y":1,"width":13,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1411,"y":1,"width":4,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1416,"y":1,"width":1,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1418,"y":1,"width":1,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1420,"y":1,"width":9,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1430,"y":1,"width":34,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1465,"y":1,"width":6,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1472,"y":1,"width":9,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1482,"y":1,"width":2,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1485,"y":1,"width":1,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1487,"y":1,"width":1,"frame_id":70262515307260,"frame":"<main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":0,"y":2,"width":41,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":42,"y":2,"width":11,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":54,"y":2,"width":7,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":62,"y":2,"width":4,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":67,"y":2,"width":8,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":76,"y":2,"width":3,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":80,"y":2,"width":7,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":88,"y":2,"width":7,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":96,"y":2,"width":9,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":106,"y":2,"width":33,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":140,"y":2,"width":20,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":161,"y":2,"width":8,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":170,"y":2,"width":7,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":178,"y":2,"width":13,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":192,"y":2,"width":25,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":218,"y":2,"width":12,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":231,"y":2,"width":1,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":233,"y":2,"width":3,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":237,"y":2,"width":28,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":266,"y":2,"width":8,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":277,"y":2,"width":5,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":283,"y":2,"width":22,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":306,"y":2,"width":3,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":310,"y":2,"width":5,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":316,"y":2,"width":1,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":318,"y":2,"width":1,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":320,"y":2,"width":22,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":343,"y":2,"width":4,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":348,"y":2,"width":7,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":356,"y":2,"width":4,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":361,"y":2,"width":7,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":369,"y":2,"width":5,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":375,"y":2,"width":10,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":386,"y":2,"width":16,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":403,"y":2,"width":4,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":408,"y":2,"width":15,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":424,"y":2,"width":18,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":443,"y":2,"width":10,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":454,"y":2,"width":14,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":469,"y":2,"width":12,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":482,"y":2,"width":4,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":488,"y":2,"width":8,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":497,"y":2,"width":30,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":528,"y":2,"width":4,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":533,"y":2,"width":6,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":540,"y":2,"width":17,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":558,"y":2,"width":47,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":606,"y":2,"width":3,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":610,"y":2,"width":28,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":639,"y":2,"width":1,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":641,"y":2,"width":10,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":652,"y":2,"width":3,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":656,"y":2,"width":15,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":672,"y":2,"width":14,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":687,"y":2,"width":14,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":702,"y":2,"width":13,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":716,"y":2,"width":5,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":722,"y":2,"width":1,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":724,"y":2,"width":1,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":726,"y":2,"width":19,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":746,"y":2,"width":5,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":752,"y":2,"width":5,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":759,"y":2,"width":10,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":770,"y":2,"width":32,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":803,"y":2,"width":6,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":810,"y":2,"width":11,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":822,"y":2,"width":23,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":846,"y":2,"width":33,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":880,"y":2,"width":4,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":885,"y":2,"width":10,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":896,"y":2,"width":1,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":898,"y":2,"width":30,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":929,"y":2,"width":13,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":943,"y":2,"width":1,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":945,"y":2,"width":1,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":947,"y":2,"width":29,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":977,"y":2,"width":1,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":979,"y":2,"width":13,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":993,"y":2,"width":2,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":996,"y":2,"width":8,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1005,"y":2,"width":18,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1024,"y":2,"width":23,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1048,"y":2,"width":1,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1050,"y":2,"width":3,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1055,"y":2,"width":4,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1060,"y":2,"width":19,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1080,"y":2,"width":34,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1115,"y":2,"width":1,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1117,"y":2,"width":5,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1123,"y":2,"width":19,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1143,"y":2,"width":21,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1165,"y":2,"width":16,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1182,"y":2,"width":13,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1196,"y":2,"width":17,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1214,"y":2,"width":8,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1223,"y":2,"width":30,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1254,"y":2,"width":12,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1267,"y":2,"width":15,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1283,"y":2,"width":3,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1287,"y":2,"width":32,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1320,"y":2,"width":5,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1326,"y":2,"width":23,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1350,"y":2,"width":21,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1372,"y":2,"width":24,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1397,"y":2,"width":13,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1411,"y":2,"width":4,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1416,"y":2,"width":1,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1418,"y":2,"width":1,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1420,"y":2,"width":9,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1430,"y":2,"width":34,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1465,"y":2,"width":6,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1472,"y":2,"width":9,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1482,"y":2,"width":2,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1485,"y":2,"width":1,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1487,"y":2,"width":1,"frame_id":70262515306240,"frame":"block in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":0,"y":3,"width":41,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":42,"y":3,"width":11,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":54,"y":3,"width":7,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":62,"y":3,"width":4,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":67,"y":3,"width":8,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":76,"y":3,"width":3,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":80,"y":3,"width":7,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":88,"y":3,"width":7,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":96,"y":3,"width":9,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":106,"y":3,"width":33,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":140,"y":3,"width":20,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":161,"y":3,"width":8,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":170,"y":3,"width":7,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":178,"y":3,"width":13,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":192,"y":3,"width":25,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":218,"y":3,"width":12,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":231,"y":3,"width":1,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":233,"y":3,"width":3,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":237,"y":3,"width":28,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":266,"y":3,"width":8,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":277,"y":3,"width":5,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":283,"y":3,"width":22,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":306,"y":3,"width":3,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":310,"y":3,"width":5,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":316,"y":3,"width":1,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":318,"y":3,"width":1,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":320,"y":3,"width":22,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":343,"y":3,"width":4,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":348,"y":3,"width":7,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":356,"y":3,"width":4,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":361,"y":3,"width":7,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":369,"y":3,"width":5,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":375,"y":3,"width":10,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":386,"y":3,"width":16,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":403,"y":3,"width":4,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":408,"y":3,"width":15,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":424,"y":3,"width":18,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":443,"y":3,"width":10,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":454,"y":3,"width":14,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":469,"y":3,"width":12,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":482,"y":3,"width":4,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":488,"y":3,"width":8,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":497,"y":3,"width":30,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":528,"y":3,"width":4,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":533,"y":3,"width":6,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":540,"y":3,"width":17,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":558,"y":3,"width":47,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":606,"y":3,"width":3,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":610,"y":3,"width":28,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":639,"y":3,"width":1,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":641,"y":3,"width":10,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":652,"y":3,"width":3,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":656,"y":3,"width":15,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":672,"y":3,"width":14,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":687,"y":3,"width":14,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":702,"y":3,"width":13,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":716,"y":3,"width":5,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":722,"y":3,"width":1,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":724,"y":3,"width":1,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":726,"y":3,"width":19,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":746,"y":3,"width":5,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":752,"y":3,"width":5,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":759,"y":3,"width":10,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":770,"y":3,"width":32,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":803,"y":3,"width":6,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":810,"y":3,"width":11,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":822,"y":3,"width":23,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":846,"y":3,"width":33,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":880,"y":3,"width":4,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":885,"y":3,"width":10,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":896,"y":3,"width":1,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":898,"y":3,"width":30,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":929,"y":3,"width":13,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":943,"y":3,"width":1,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":945,"y":3,"width":1,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":947,"y":3,"width":29,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":977,"y":3,"width":1,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":979,"y":3,"width":13,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":993,"y":3,"width":2,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":996,"y":3,"width":8,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1005,"y":3,"width":18,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1024,"y":3,"width":23,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1048,"y":3,"width":1,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1050,"y":3,"width":3,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1055,"y":3,"width":4,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1060,"y":3,"width":19,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1080,"y":3,"width":34,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1115,"y":3,"width":1,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1117,"y":3,"width":5,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1123,"y":3,"width":19,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1143,"y":3,"width":21,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1165,"y":3,"width":16,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1182,"y":3,"width":13,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1196,"y":3,"width":17,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1214,"y":3,"width":8,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1223,"y":3,"width":30,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1254,"y":3,"width":12,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1267,"y":3,"width":15,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1283,"y":3,"width":3,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1287,"y":3,"width":32,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1320,"y":3,"width":5,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1326,"y":3,"width":23,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1350,"y":3,"width":21,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1372,"y":3,"width":24,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1397,"y":3,"width":13,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1411,"y":3,"width":4,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1416,"y":3,"width":1,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1418,"y":3,"width":1,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1420,"y":3,"width":9,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1430,"y":3,"width":34,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1465,"y":3,"width":6,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1472,"y":3,"width":9,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1482,"y":3,"width":2,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1485,"y":3,"width":1,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1487,"y":3,"width":1,"frame_id":70262515305940,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":0,"y":4,"width":36,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":37,"y":4,"width":4,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":42,"y":4,"width":11,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":54,"y":4,"width":7,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":62,"y":4,"width":4,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":67,"y":4,"width":8,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":76,"y":4,"width":3,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":80,"y":4,"width":7,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":88,"y":4,"width":7,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":96,"y":4,"width":9,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":106,"y":4,"width":33,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":140,"y":4,"width":20,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":161,"y":4,"width":8,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":170,"y":4,"width":7,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":178,"y":4,"width":13,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":192,"y":4,"width":25,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":218,"y":4,"width":12,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":231,"y":4,"width":1,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":233,"y":4,"width":3,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":237,"y":4,"width":28,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":266,"y":4,"width":8,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":277,"y":4,"width":5,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":283,"y":4,"width":22,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":306,"y":4,"width":3,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":310,"y":4,"width":5,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":316,"y":4,"width":1,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":318,"y":4,"width":1,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":320,"y":4,"width":22,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":343,"y":4,"width":4,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":348,"y":4,"width":7,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":356,"y":4,"width":4,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":361,"y":4,"width":7,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":369,"y":4,"width":5,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":375,"y":4,"width":10,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":386,"y":4,"width":16,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":403,"y":4,"width":4,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":408,"y":4,"width":13,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":422,"y":4,"width":1,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":424,"y":4,"width":18,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":443,"y":4,"width":10,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":454,"y":4,"width":14,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":469,"y":4,"width":12,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":482,"y":4,"width":4,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":488,"y":4,"width":8,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":497,"y":4,"width":30,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":528,"y":4,"width":4,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":533,"y":4,"width":6,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":540,"y":4,"width":17,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":558,"y":4,"width":47,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":606,"y":4,"width":3,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":610,"y":4,"width":28,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":639,"y":4,"width":1,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":641,"y":4,"width":10,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":652,"y":4,"width":3,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":656,"y":4,"width":15,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":672,"y":4,"width":14,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":687,"y":4,"width":14,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":702,"y":4,"width":9,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":712,"y":4,"width":3,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":716,"y":4,"width":5,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":722,"y":4,"width":1,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":724,"y":4,"width":1,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":726,"y":4,"width":11,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":738,"y":4,"width":7,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":746,"y":4,"width":5,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":752,"y":4,"width":5,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":759,"y":4,"width":10,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":770,"y":4,"width":32,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":803,"y":4,"width":6,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":810,"y":4,"width":11,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":822,"y":4,"width":23,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":846,"y":4,"width":33,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":880,"y":4,"width":4,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":885,"y":4,"width":10,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":896,"y":4,"width":1,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":898,"y":4,"width":30,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":929,"y":4,"width":13,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":943,"y":4,"width":1,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":945,"y":4,"width":1,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":947,"y":4,"width":22,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":970,"y":4,"width":6,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":977,"y":4,"width":1,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":979,"y":4,"width":13,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":993,"y":4,"width":2,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":996,"y":4,"width":8,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1005,"y":4,"width":10,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1016,"y":4,"width":7,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1024,"y":4,"width":23,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1048,"y":4,"width":1,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1050,"y":4,"width":3,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1055,"y":4,"width":4,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1060,"y":4,"width":19,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1080,"y":4,"width":33,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1115,"y":4,"width":1,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1117,"y":4,"width":5,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1123,"y":4,"width":16,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1140,"y":4,"width":2,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1143,"y":4,"width":21,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1165,"y":4,"width":16,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1182,"y":4,"width":13,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1196,"y":4,"width":17,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1214,"y":4,"width":8,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1223,"y":4,"width":30,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1254,"y":4,"width":12,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1267,"y":4,"width":5,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1273,"y":4,"width":9,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1284,"y":4,"width":2,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1287,"y":4,"width":32,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1320,"y":4,"width":5,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1326,"y":4,"width":23,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1350,"y":4,"width":21,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1372,"y":4,"width":24,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1397,"y":4,"width":13,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1411,"y":4,"width":4,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1416,"y":4,"width":1,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1418,"y":4,"width":1,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1420,"y":4,"width":9,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1430,"y":4,"width":34,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1465,"y":4,"width":6,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1472,"y":4,"width":9,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1482,"y":4,"width":1,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1485,"y":4,"width":1,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":1487,"y":4,"width":1,"frame_id":70262515305740,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+])

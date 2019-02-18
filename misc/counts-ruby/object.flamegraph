@@ -1,0 +1,20 @@
+flamegraph([
+{"x":2,"y":3,"width":324,"frame_id":70137327848620,"frame":"block (2 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":3,"y":4,"width":35,"frame_id":70137327848320,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":39,"y":4,"width":32,"frame_id":70137327848320,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":72,"y":4,"width":30,"frame_id":70137327848320,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":103,"y":4,"width":28,"frame_id":70137327848320,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":132,"y":4,"width":26,"frame_id":70137327848320,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":159,"y":4,"width":24,"frame_id":70137327848320,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":184,"y":4,"width":22,"frame_id":70137327848320,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":207,"y":4,"width":20,"frame_id":70137327848320,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":228,"y":4,"width":18,"frame_id":70137327848320,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":247,"y":4,"width":16,"frame_id":70137327848320,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":264,"y":4,"width":14,"frame_id":70137327848320,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":279,"y":4,"width":12,"frame_id":70137327848320,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":292,"y":4,"width":10,"frame_id":70137327848320,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":303,"y":4,"width":8,"frame_id":70137327848320,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":312,"y":4,"width":6,"frame_id":70137327848320,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":319,"y":4,"width":4,"frame_id":70137327848320,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+,{"x":324,"y":4,"width":2,"frame_id":70137327848320,"frame":"block (3 levels) in <main>","file":"/Users/tclark/art/glome/counts.rb"}
+])
