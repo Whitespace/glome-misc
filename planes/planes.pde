@@ -112,25 +112,47 @@ v = new PVector(l * -1  , l * -phi, l * 0);
 popMatrix();
 
 pushMatrix();
-v = new PVector(l * phi , l * 0   , l * 1);
+  v = new PVector(l * phi , l * 0   , l * 1);
+  translate(v.x,v.y,v.z);
+  a = PVector.angleBetween(v, new PVector(v.x, 0, 0));
+  rotateY(-a*2);
+  shape(pentagon);
 popMatrix();
+stroke(#00FF00);
+line(0,0,0,v.x,v.y,v.z);
+stroke(#000000);
 
 pushMatrix();
-v = new PVector(l * -phi, l * 0   , l * 1);
+  v = new PVector(l * -phi, l * 0   , l * 1);
+  translate(v.x,v.y,v.z);
+  a = PVector.angleBetween(v, new PVector(v.x, 0, 0));
+  rotateY(-a*2);
+  shape(pentagon);
 popMatrix();
+stroke(#00FF00);
+line(0,0,0,v.x,v.y,v.z);
+stroke(#000000);
 
 pushMatrix();
-v = new PVector(l * phi , l * 0   , l * -1);
+  v = new PVector(l * phi , l * 0   , l * -1);
+  translate(v.x,v.y,v.z);
+  a = PVector.angleBetween(v, new PVector(v.x, 0, 0));
+  rotateY(-a*2);
+  shape(pentagon);
 popMatrix();
+stroke(#00FF00);
+line(0,0,0,v.x,v.y,v.z);
+stroke(#000000);
+
 
 pushMatrix();
   v = new PVector(l * -phi, l * 0   , l * -1);
   translate(v.x,v.y,v.z);
-  a = PVector.angleBetween(v, new PVector(0, 0, v.z));
-  rotateY(-a/2);
+  a = PVector.angleBetween(v, new PVector(v.x, 0, 0));
+  rotateY(a*2);
   shape(pentagon);
 popMatrix();
-stroke(#FF0000);
+stroke(#00FF00);
 line(0,0,0,v.x,v.y,v.z);
 stroke(#000000);
 
